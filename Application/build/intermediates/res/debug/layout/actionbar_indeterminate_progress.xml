@@ -21,4 +21,4 @@
                  android:layout_height="32dp"
                  android:layout_gravity="center"/>
 </FrameLayout>
-<!-- From: file:/Users/uve/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/res/layout/actionbar_indeterminate_progress.xml -->
+<!-- From: file:/var/www/BluetoothLeGatt/Application/src/main/res/layout/actionbar_indeterminate_progress.xml -->

@@ -83,4 +83,4 @@
     <ExpandableListView android:id="@+id/gatt_services_list"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
-</LinearLayout><!-- From: file:/Users/uve/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/res/layout/gatt_services_characteristics.xml -->
+</LinearLayout><!-- From: file:/var/www/BluetoothLeGatt/Application/src/main/res/layout/gatt_services_characteristics.xml -->

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/uve/AndroidStudioProjects/BluetoothLeGatt/Application/tests/res"/><source path="/Users/uve/AndroidStudioProjects/BluetoothLeGatt/Application/build/generated/res/rs/test/debug"/><source path="/Users/uve/AndroidStudioProjects/BluetoothLeGatt/Application/build/generated/res/generated/test/debug"/></dataSet><mergedItems/></merger>
+<merger version="3"><dataSet config="main"><source path="/var/www/BluetoothLeGatt/Application/tests/res"/><source path="/var/www/BluetoothLeGatt/Application/build/generated/res/rs/test/debug"/><source path="/var/www/BluetoothLeGatt/Application/build/generated/res/generated/test/debug"/></dataSet><mergedItems/></merger>
